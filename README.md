@@ -12,4 +12,7 @@ Given the cell array in generation n: Cn, C(n+1) is created by applying the rule
 This is visualized by embedding the arrays into a 2D grid (Width = # of cells, Height = # of generations).
 Row 1 corresponds to generation 1, row 2 corresponds to generation 2, etc...
 
+Examples:
+
+Rule 30:
 ![alttext](https://github.com/Schnauzer-Megadeath/1D-cellular-automata/blob/master/images/img1.png)
