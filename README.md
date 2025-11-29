@@ -9,6 +9,6 @@ Rule 255 = {1, 1, 1, 1, 1, 1, 1, 1} <br>
 
 Generation 1 typically begins with the cell array where only the middle cell is 1: {0, 0, 1, 0, 0}
 Given the cell array in generation n: Cn, C(n+1) is created by applying the rules to each cell in Cn.
-This is visualized by embedding the arrays into a 2D grid (Width = cell #).
+This is visualized by embedding the arrays into a 2D grid (Width = # of cells, Height = # of generations).
 Row 1 corresponds to generation 1, row 2 corresponds to generation 2, etc...
 
